@@ -1,0 +1,54 @@
+{
+  "bookings": [],
+  "flightDb": [
+    {
+      "flightId": "IND-101",
+      "AircraftName": "Deccan Airs",
+      "fare": 1,
+      "availableSeats": 15,
+      "status": "Running"
+    },
+    {
+      "flightId": "IND-102",
+      "AircraftName": "JetBlue",
+      "fare": 750,
+      "availableSeats": 20,
+      "status": "Cancelled"
+    },
+    {
+      "flightId": "IND-103",
+      "AircraftName": "United Airlines",
+      "fare": 800,
+      "availableSeats": 10,
+      "status": "Running"
+    },
+    {
+      "flightId": "IND-104",
+      "AircraftName": "Express Jetcraft",
+      "fare": 900,
+      "availableSeats": 15,
+      "status": "Running"
+    },
+    {
+      "flightId": "IND-105",
+      "AircraftName": "Wonder Airlines",
+      "fare": 800,
+      "availableSeats": 10,
+      "status": "Cancelled"
+    },
+    {
+      "flightId": "IND-107",
+      "AircraftName": "INDIGO",
+      "fare": 1800,
+      "availableSeats": 12,
+      "status": "Running"
+    },
+    {
+      "flightId": "IND-108",
+      "AircraftName": "Delta Airlines",
+      "fare": 600,
+      "availableSeats": 5,
+      "status": "Running"
+    }
+  ]
+}
